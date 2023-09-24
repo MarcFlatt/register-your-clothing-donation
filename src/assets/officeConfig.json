@@ -1,0 +1,16 @@
+{
+  "name": "Kleider Spenden e.V.",
+  "zip": 67059,
+  "city": "Ludwigshafen am Rhein",
+  "street": "Teststraße",
+  "building_no": "1a",
+  "phone": "+49(621) 0123 456",
+  "fax": "+49(621) 0123 789",
+  "mail": "info@muster-domain.de",
+  "post": {
+    "zip": 67059,
+    "city": "Ludwigshafen am Rhein",
+    "street": "Postfach 123456",
+    "building_no": null
+  }
+}

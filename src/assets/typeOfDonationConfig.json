@@ -1,0 +1,9 @@
+[
+  { "key": "belt", "value": "Gürtel" },
+  { "key": "trousers", "value": "Hose" },
+  { "key": "jacket", "value": "Jacke" },
+  { "key": "sweater", "value": "Pullover" },
+  { "key": "shoes", "value": "Schuhe" },
+  { "key": "socks", "value": "Socken" },
+  { "key": "shirt", "value": "T-Shirt" }
+]
